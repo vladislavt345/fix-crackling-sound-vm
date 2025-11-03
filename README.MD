@@ -1,4 +1,3 @@
-```markdown
 # VMware Audio Fix Scripts
 
 Fix audio crackling/stuttering in Linux VMs running on VMware Workstation.
@@ -19,9 +18,6 @@ chmod +x vm_sound_fix.sh
 ```
 
 **Distro:** openSUSE (uses `zypper`)
-
----
-
 ### Option 2: PipeWire Optimization
 **File:** `vm_sound_also_fix.sh`
 
